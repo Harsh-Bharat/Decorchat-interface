@@ -1,0 +1,59 @@
+.divforbutton{
+    padding: 5px;
+    border: solid;
+    width: 500px;
+    position: relative;
+    left: 500px;
+    gap: 70px;
+    display: flex;
+    border-radius: 5px;
+    font: bold;
+    background-color: rgb(44, 99, 220);
+    background: black;
+}
+.btn-close{
+    position: relative;
+    left: 170vh;
+    justify-content: end;
+}
+.button{
+    padding: 5px;
+    border: solid;
+    width: 200px;
+    
+    gap: 70px;
+    display: flex;
+    border-radius: 5px;
+    font: bold;
+   
+ 
+}
+.Nav{
+    border: solid rgb(38, 21, 21);
+ background-color:black;
+    height: 10vh;
+    display: flex;
+gap: 20px;
+align-items: center;
+}
+.text{
+    cursor: pointer;
+}
+.modebtn{
+    position: relative;
+    left: 1300px;
+
+}
+.container{
+position: relative;
+align-items: center;
+justify-content: center;
+display: block;    
+}
+.redmode{
+    width: 20px;
+    height: 20px;
+    background: #e1aeae;
+    position: relative;
+    left: 1100px;
+}

@@ -1,0 +1,93 @@
+.left{
+    border:none;;
+background-color:rgb(232, 232, 232);;
+    width:80px;
+    height: 725px;
+}
+.right{
+    width: -webkit-fill-available;
+    height: 725px;
+    border:none;;
+}
+.flexbox{
+    display: flex;
+}
+.nav-item{
+    align-items: center;
+    border:none;;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.bluetext{
+    border:solid;
+    width: -webkit-fill-available;
+    height: 37px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(3, 3, 71) ;
+}
+.btn-close{
+    border:none;;
+    color: #fff;
+    justify-content: center;
+    
+}
+.bluetext {
+    align-items: end;
+    justify-content: end;
+    display: flex;
+}
+.expandmenu{
+    width: 42px;
+    height: 41px;
+    border-radius: 94px;
+    position: relative;
+    left: 14px;
+    top: 164px;
+    border-color: black;
+   
+    background-color: #dad7d7;
+}
+.container{
+    display: grid;
+    grid-gap: 33px;
+    width: 42px;
+    height: 41px;
+    position: relative;
+    top: 445px;
+}
+.Webname{
+    color: #8c8a8a;
+    
+}
+.input{
+    width: 850px;
+    height: 70px;
+    border-radius: 30px;
+    position: relative;
+    left: 240px;
+    border: none;
+    background-color:#f4f1f1;
+    position: relative;
+    top: 75px;
+}
+.inputarea{
+    display: flex;
+    position: relative;
+    top: 400px;
+    
+    
+}
+.bi.bi-images,.bi.bi-mic{
+    position: relative;
+    top: 10px;
+}
+.icon{
+    position: relative;
+    display: flex;
+    /* justify-content: end; */
+    left: 100px;
+    gap: 23px;
+  
+    top: 75px;
+}
